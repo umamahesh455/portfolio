@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Dark background with green border -->
+  <rect width="32" height="32" rx="6" fill="#080d0f"/>
+  <rect width="32" height="32" rx="6" fill="none" stroke="#00ff88" stroke-width="1" opacity="0.35"/>
+
+  <!-- DevOps infinity loop (continuous delivery cycle) -->
+  <path d="M6 16 C6 11.5, 10 8, 14 11 L16 13 L18 15 C20 17, 22 18.5, 24 17 C26 15.5, 26 12.5, 24 11 C22 9.5, 20 11, 18 13 L16 15 L14 17 C12 19, 9 19.5, 7.5 18 C6 16.5, 6 16, 6 16 Z"
+        fill="none" stroke="#00ff88" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Arrow head right side -->
+  <polygon points="25,10 28,12 25,14" fill="#00ff88" opacity="0.85"/>
+
+  <!-- Small glow dot center -->
+  <circle cx="16" cy="14" r="1.2" fill="#00ff88" opacity="0.6"/>
+
+  <!-- "DevOps" tiny label -->
+  <text x="16" y="27" font-family="monospace" font-size="4.5" font-weight="700" fill="#00ff88" text-anchor="middle" opacity="0.75">DevOps</text>
+</svg>
